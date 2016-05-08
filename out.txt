@@ -1,0 +1,58 @@
+Variance vs No. Of Features
+------------------------------
+99.0	12
+95.0	6
+90.0	4
+75.0	2
+65.0	1
+50.0	1
+
+
+Different Model Accuracy (using 12 features)
+------------------------------
+lr	0.813219647049
+rr	0.813223461762
+rf	0.631597230379
+adaboostRF	0.760353005763
+adaboostSVR	0.534346397601
+svrl	0.69127372591
+svrg	0.633189617096
+
+
+Important Features :
+------------------------------
+The top 4 features are: 
+OBP
+ERA+
+WHIP
+H9
+
+The top 2 features are: 
+ERA+
+WHIP
+
+The top 12 features are: 
+BA
+OBP
+SLG
+OPS
+DefEff
+Rtot
+RtotPerYr
+tSho
+ERA+
+WHIP
+H9
+BB9
+
+The top 6 features are: 
+OBP
+OPS
+Rtot
+ERA+
+WHIP
+H9
+
+The top 1 features are: 
+ERA+
+

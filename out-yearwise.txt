@@ -1,0 +1,708 @@
+
+
+Contributing Feature by Years
+------------------------------
+Years : 1961 - 1965
+Variance vs No. Of Features
+------------------------------
+99.0	16
+95.0	9
+90.0	7
+75.0	4
+65.0	3
+50.0	2
+Accuracy : 0.695321914161
+Best Number of Features : {'pca__n_components': 16}
+
+
+Important Features :
+------------------------------
+The top 2 features are: 
+ERA+
+H9
+
+The top 3 features are: 
+Pitching_H
+ERA+
+H9
+
+The top 4 features are: 
+Rtot
+Pitching_H
+ERA+
+H9
+
+The top 7 features are: 
+BA
+Rtot
+RtotPerYr
+Pitching_H
+ERA+
+WHIP
+H9
+
+The top 9 features are: 
+Batting_H
+BA
+Rtot
+RtotPerYr
+CG
+Pitching_H
+ERA+
+WHIP
+H9
+
+The top 16 features are: 
+Batting_H
+BA
+OBP
+SLG
+OPS
+Batting_IBB
+DefEff
+Rtot
+RtotPerYr
+CG
+tSho
+cSho
+Pitching_H
+ERA+
+WHIP
+H9
+
+========================================
+Years : 1966 - 1970
+Variance vs No. Of Features
+------------------------------
+99.0	17
+95.0	8
+90.0	7
+75.0	4
+65.0	3
+50.0	2
+Accuracy : 0.764779130538
+Best Number of Features : {'pca__n_components': 17}
+
+
+Important Features :
+------------------------------
+The top 2 features are: 
+Rtot
+ERA+
+
+The top 3 features are: 
+Rtot
+RtotPerYr
+ERA+
+
+The top 4 features are: 
+Rtot
+RtotPerYr
+ERA+
+WHIP
+
+The top 7 features are: 
+SLG
+OPS
+Rtot
+RtotPerYr
+CG
+ERA+
+WHIP
+
+The top 8 features are: 
+SLG
+OPS
+Rtot
+RtotPerYr
+CG
+ERA+
+WHIP
+H9
+
+The top 17 features are: 
+Batting_H
+BA
+OBP
+SLG
+OPS
+DefEff
+FldPercentage
+Rtot
+RtotPerYr
+CG
+tSho
+cSho
+IP
+Pitching_H
+ERA+
+WHIP
+H9
+
+========================================
+Years : 1971 - 1975
+Variance vs No. Of Features
+------------------------------
+99.0	16
+95.0	9
+90.0	7
+75.0	4
+65.0	3
+50.0	2
+Accuracy : 0.720781726662
+Best Number of Features : {'pca__n_components': 16}
+
+
+Important Features :
+------------------------------
+The top 2 features are: 
+OPS
+ERA+
+
+The top 3 features are: 
+SLG
+OPS
+ERA+
+
+The top 4 features are: 
+SLG
+OPS
+ERA+
+WHIP
+
+The top 7 features are: 
+OBP
+SLG
+OPS
+Pitching_BB
+ERA+
+WHIP
+BB9
+
+The top 9 features are: 
+OBP
+SLG
+OPS
+Rtot
+RtotPerYr
+Pitching_BB
+ERA+
+WHIP
+BB9
+
+The top 16 features are: 
+BatAge
+Batting_H
+2B
+BA
+OBP
+SLG
+OPS
+Batting_IBB
+DefEff
+Rtot
+RtotPerYr
+Pitching_BB
+WP
+ERA+
+WHIP
+BB9
+
+========================================
+Years : 1976 - 1980
+Variance vs No. Of Features
+------------------------------
+99.0	18
+95.0	10
+90.0	8
+75.0	5
+65.0	4
+50.0	2
+Accuracy : 0.82942984814
+Best Number of Features : {'pca__n_components': 10}
+
+
+Important Features :
+------------------------------
+The top 2 features are: 
+ERA+
+WHIP
+
+The top 4 features are: 
+Pitching_BB
+ERA+
+WHIP
+BB9
+
+The top 5 features are: 
+OPS
+Pitching_BB
+ERA+
+WHIP
+BB9
+
+The top 8 features are: 
+OBP
+SLG
+OPS
+Pitching_BB
+ERA+
+WHIP
+BB9
+SOW
+
+The top 10 features are: 
+Batting_H
+BA
+OBP
+SLG
+OPS
+Pitching_BB
+ERA+
+WHIP
+BB9
+SOW
+
+The top 18 features are: 
+BatAge
+Batting_H
+Batting_HR
+BA
+OBP
+SLG
+OPS
+DefEff
+FldPercentage
+Rtot
+RtotPerYr
+tSho
+Pitching_BB
+ERA+
+WHIP
+BB9
+SOW
+Pitching_LOB
+
+========================================
+Years : 1981 - 1985
+Variance vs No. Of Features
+------------------------------
+99.0	6
+95.0	2
+90.0	1
+75.0	1
+65.0	1
+50.0	1
+Accuracy : 0.501896197172
+Best Number of Features : {'pca__n_components': 6}
+
+
+Important Features :
+------------------------------
+The top 1 features are: 
+WHIP
+
+The top 2 features are: 
+OBP
+WHIP
+
+The top 6 features are: 
+OBP
+SLG
+OPS
+ERA+
+WHIP
+H9
+
+========================================
+Years : 1986 - 1990
+Variance vs No. Of Features
+------------------------------
+99.0	19
+95.0	10
+90.0	8
+75.0	5
+65.0	4
+50.0	2
+Accuracy : 0.567766858761
+Best Number of Features : {'pca__n_components': 19}
+
+
+Important Features :
+------------------------------
+The top 2 features are: 
+ERA+
+WHIP
+
+The top 4 features are: 
+ERA+
+WHIP
+H9
+SOW
+
+The top 5 features are: 
+IP
+ERA+
+WHIP
+H9
+SOW
+
+The top 8 features are: 
+OBP
+DefEff
+IP
+Pitching_H
+ERA+
+WHIP
+H9
+SOW
+
+The top 10 features are: 
+OBP
+OPS
+DefEff
+tSho
+IP
+Pitching_H
+ERA+
+WHIP
+H9
+SOW
+
+The top 19 features are: 
+Batting_H
+BA
+OBP
+SLG
+OPS
+DefEff
+E
+FldPercentage
+Rtot
+RtotPerYr
+tSho
+IP
+Pitching_H
+ERA+
+FIP
+WHIP
+H9
+BB9
+SOW
+
+========================================
+Years : 1991 - 1995
+Variance vs No. Of Features
+------------------------------
+99.0	8
+95.0	2
+90.0	1
+75.0	1
+65.0	1
+50.0	1
+Accuracy : 0.488564063908
+Best Number of Features : {'pca__n_components': 8}
+
+
+Important Features :
+------------------------------
+The top 8 features are: 
+BA
+OBP
+SLG
+OPS
+FldPercentage
+ERA+
+WHIP
+H9
+
+The top 1 features are: 
+ERA+
+
+The top 2 features are: 
+OBP
+ERA+
+
+========================================
+Years : 1996 - 2000
+Variance vs No. Of Features
+------------------------------
+99.0	18
+95.0	10
+90.0	7
+75.0	4
+65.0	4
+50.0	2
+Accuracy : 0.824908356429
+Best Number of Features : {'pca__n_components': 18}
+
+
+Important Features :
+------------------------------
+The top 18 features are: 
+BatAge
+Batting_HR
+Batting_BB
+BA
+OBP
+SLG
+OPS
+PAge
+tSho
+IP
+Pitching_H
+Pitching_SO
+ERA+
+FIP
+WHIP
+H9
+SO9
+SOW
+
+The top 2 features are: 
+OBP
+ERA+
+
+The top 4 features are: 
+OBP
+OPS
+ERA+
+WHIP
+
+The top 10 features are: 
+Batting_BB
+OBP
+SLG
+OPS
+PAge
+ERA+
+FIP
+WHIP
+H9
+SOW
+
+The top 7 features are: 
+OBP
+SLG
+OPS
+PAge
+ERA+
+FIP
+WHIP
+
+========================================
+Years : 2001 - 2005
+Variance vs No. Of Features
+------------------------------
+99.0	18
+95.0	10
+90.0	7
+75.0	4
+65.0	3
+50.0	2
+Accuracy : 0.855161663264
+Best Number of Features : {'pca__n_components': 18}
+
+
+Important Features :
+------------------------------
+The top 2 features are: 
+ERA+
+WHIP
+
+The top 3 features are: 
+ERA+
+FIP
+WHIP
+
+The top 4 features are: 
+ERA+
+FIP
+WHIP
+SOW
+
+The top 7 features are: 
+OBP
+OPS
+ERA+
+FIP
+WHIP
+H9
+SOW
+
+The top 10 features are: 
+OBP
+OPS
+Pitching_H
+Pitching_BB
+ERA+
+FIP
+WHIP
+H9
+BB9
+SOW
+
+The top 18 features are: 
+Batting_BB
+BA
+OBP
+SLG
+OPS
+DefEff
+FldPercentage
+PAge
+tSho
+IP
+Pitching_H
+Pitching_BB
+ERA+
+FIP
+WHIP
+H9
+BB9
+SOW
+
+========================================
+Years : 2006 - 2010
+Variance vs No. Of Features
+------------------------------
+99.0	17
+95.0	10
+90.0	7
+75.0	4
+65.0	3
+50.0	2
+Accuracy : 0.779472150012
+Best Number of Features : {'pca__n_components': 17}
+
+
+Important Features :
+------------------------------
+The top 2 features are: 
+ERA+
+WHIP
+
+The top 3 features are: 
+ERA+
+WHIP
+SOW
+
+The top 4 features are: 
+ERA+
+WHIP
+BB9
+SOW
+
+The top 7 features are: 
+OBP
+OPS
+ERA+
+FIP
+WHIP
+BB9
+SOW
+
+The top 10 features are: 
+OBP
+OPS
+IP
+Pitching_BB
+ERA+
+FIP
+WHIP
+H9
+BB9
+SOW
+
+The top 17 features are: 
+OBP
+SLG
+OPS
+DefEff
+Rtot
+RtotPerYr
+tSho
+IP
+Pitching_H
+Pitching_BB
+ERA+
+FIP
+WHIP
+H9
+BB9
+SOW
+Pitching_LOB
+
+========================================
+Years : 2011 - 2015
+Variance vs No. Of Features
+------------------------------
+99.0	18
+95.0	10
+90.0	7
+75.0	4
+65.0	3
+50.0	2
+Accuracy : 0.798269818545
+Best Number of Features : {'pca__n_components': 18}
+
+
+Important Features :
+------------------------------
+The top 2 features are: 
+ERA+
+WHIP
+
+The top 3 features are: 
+ERA+
+WHIP
+H9
+
+The top 4 features are: 
+ERA+
+FIP
+WHIP
+H9
+
+The top 7 features are: 
+Pitching_H
+ERA+
+FIP
+WHIP
+H9
+BB9
+SOW
+
+The top 10 features are: 
+OBP
+tSho
+IP
+Pitching_H
+ERA+
+FIP
+WHIP
+H9
+BB9
+SOW
+
+The top 18 features are: 
+OBP
+SLG
+OPS
+DefEff
+Rtot
+RtotPerYr
+tSho
+IP
+Pitching_H
+Pitching_HR
+Pitching_BB
+ERA+
+FIP
+WHIP
+H9
+HR9
+BB9
+SOW
+
+========================================
